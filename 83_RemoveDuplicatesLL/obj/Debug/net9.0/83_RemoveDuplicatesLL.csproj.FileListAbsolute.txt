@@ -1,0 +1,15 @@
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/obj/Debug/net9.0/83_RemoveDuplicatesLL.GeneratedMSBuildEditorConfig.editorconfig
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/obj/Debug/net9.0/83_RemoveDuplicatesLL.AssemblyInfoInputs.cache
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/obj/Debug/net9.0/83_RemoveDuplicatesLL.AssemblyInfo.cs
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/obj/Debug/net9.0/83_RemoveDuplicatesLL.csproj.CoreCompileInputs.cache
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/obj/Debug/net9.0/83_RemoveDuplicatesLL.sourcelink.json
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/bin/Debug/net9.0/83_RemoveDuplicatesLL
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/bin/Debug/net9.0/83_RemoveDuplicatesLL.deps.json
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/bin/Debug/net9.0/83_RemoveDuplicatesLL.runtimeconfig.json
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/bin/Debug/net9.0/83_RemoveDuplicatesLL.dll
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/bin/Debug/net9.0/83_RemoveDuplicatesLL.pdb
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/obj/Debug/net9.0/83_RemoveDuplicatesLL.dll
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/obj/Debug/net9.0/refint/83_RemoveDuplicatesLL.dll
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/obj/Debug/net9.0/83_RemoveDuplicatesLL.pdb
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/obj/Debug/net9.0/83_RemoveDuplicatesLL.genruntimeconfig.cache
+/home/pauchxk/Programming/Leetcode/83_RemoveDuplicatesLL/obj/Debug/net9.0/ref/83_RemoveDuplicatesLL.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "83_RemoveDuplicatesLL/1.0.0": {
+        "runtime": {
+          "83_RemoveDuplicatesLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "83_RemoveDuplicatesLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
