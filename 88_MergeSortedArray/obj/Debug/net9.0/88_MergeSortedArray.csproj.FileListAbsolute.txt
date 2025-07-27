@@ -1,0 +1,15 @@
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/obj/Debug/net9.0/88_MergeSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/obj/Debug/net9.0/88_MergeSortedArray.AssemblyInfoInputs.cache
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/obj/Debug/net9.0/88_MergeSortedArray.AssemblyInfo.cs
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/obj/Debug/net9.0/88_MergeSortedArray.csproj.CoreCompileInputs.cache
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/obj/Debug/net9.0/88_MergeSortedArray.sourcelink.json
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/bin/Debug/net9.0/88_MergeSortedArray
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/bin/Debug/net9.0/88_MergeSortedArray.deps.json
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/bin/Debug/net9.0/88_MergeSortedArray.runtimeconfig.json
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/bin/Debug/net9.0/88_MergeSortedArray.dll
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/bin/Debug/net9.0/88_MergeSortedArray.pdb
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/obj/Debug/net9.0/88_MergeSortedArray.dll
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/obj/Debug/net9.0/refint/88_MergeSortedArray.dll
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/obj/Debug/net9.0/88_MergeSortedArray.pdb
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/obj/Debug/net9.0/88_MergeSortedArray.genruntimeconfig.cache
+/home/pauchxk/Programming/Leetcode/88_MergeSortedArray/obj/Debug/net9.0/ref/88_MergeSortedArray.dll
